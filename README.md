@@ -21,8 +21,6 @@ Um contador de caloria onde é possível adicionar a meta diária, adicionar o n
 ### Fucionalidades do Projeto
 
 - [x] Responsividade
-- [ ] Mais de um idioma
-- [ ] Uma API nutricional
 
 ### Autor
 
